@@ -5,6 +5,13 @@
 
 </div>
 
+<div align="center">
+  
+   ![Static Badge](https://img.shields.io/badge/JDK-Version_17-red)
+   ![Static Badge](https://img.shields.io/badge/gson-Version_2.8.2-blue)
+
+</div>
+
 <h2 align="center">Tecnologia</h2>
 <div align="center">
   
